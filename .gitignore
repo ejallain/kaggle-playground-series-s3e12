@@ -1,6 +1,7 @@
 # Eric's additions
 data/
 .kaggle/
+mlflow/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
