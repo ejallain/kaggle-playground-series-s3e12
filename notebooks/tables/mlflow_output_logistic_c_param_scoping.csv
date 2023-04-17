@@ -1,0 +1,6 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,C,swap_probability,train_accuracy_score
+2023-04-16 10:20:15,13.1s,20377cb3057748fdb77c5bab9265a193,resilient-rat-838,LOCAL,c:\Users\eria\Anaconda3\lib\site-packages\ipykernel_launcher.py,ERIA,FINISHED,0.001,30,0.7342995169082126
+2023-04-16 10:20:03,11.5s,bc94f455d39e40a4b034914dd76c02ad,popular-finch-698,LOCAL,c:\Users\eria\Anaconda3\lib\site-packages\ipykernel_launcher.py,ERIA,FINISHED,0.01,30,0.7777777777777778
+2023-04-16 10:19:53,10.5s,9546ed7dd65d4506bce57e2988e7e518,wise-duck-526,LOCAL,c:\Users\eria\Anaconda3\lib\site-packages\ipykernel_launcher.py,ERIA,FINISHED,0.1,30,0.8526570048309179
+2023-04-16 10:19:43,9.2s,02703d393e244ebe9b04b80706b18ac1,trusting-snail-88,LOCAL,c:\Users\eria\Anaconda3\lib\site-packages\ipykernel_launcher.py,ERIA,FINISHED,0.5,30,0.9227053140096618
+2023-04-16 10:19:32,11.6s,f15375c6b32543b4a31cfb9a3728db8b,overjoyed-crow-970,LOCAL,c:\Users\eria\Anaconda3\lib\site-packages\ipykernel_launcher.py,ERIA,FINISHED,1.0,30,0.9371980676328503
